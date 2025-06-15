@@ -6,5 +6,6 @@ For **IIR** Filter Design: The filter was designed using **Elliptic** and **Butt
 
 For FIR Filter Design:
 
-Below is a link to the report illustrating the input parameters and results for each filter design:
+This report illustrates the results — [View the full report](./report.pdf)
+
 
